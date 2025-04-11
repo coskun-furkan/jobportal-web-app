@@ -46,8 +46,7 @@ jobportal-web-app/
 └── README.md
 
 
-![Ana Sayfa Görseli](images/candidate-screen.png.jpg)
-
+images/candidate-screen.png.jpg
 
 
 
