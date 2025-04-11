@@ -22,8 +22,19 @@ JobPortal, iş arayanlar ile işverenleri bir araya getiren, Spring Boot tabanl�
 - **Veritabanı:** MySQL
 - **Frontend:** Thymeleaf, HTML, CSS (Hazır olarak dışarıdan projeye dahil edimiştir "Frontend".)
 - **Diğer:** Maven, JWT
+  
 
-![homescreen.png.jpg](https://raw.githubusercontent.com/coskun-furkan/jobportal-web-app/main/images/homescreen.png.jpg)
+![homescreen png](https://github.com/user-attachments/assets/d72db7a4-6e55-45d1-afe7-d317a70a1af7)
+
+![recruiter-screen png](https://github.com/user-attachments/assets/a63b485b-8756-4efb-96a2-fbf9c28da7e3)
+
+![recruiterr png](https://github.com/user-attachments/assets/672c7711-c3cb-4910-9de1-b92dde9f2508)
+
+![candidate-screen png](https://github.com/user-attachments/assets/fc8ce446-e518-4513-b232-6d9b0537f26d)
+
+![job-application-screen png](https://github.com/user-attachments/assets/44da081c-741b-4e55-8d3b-3c3c148142e1)
+
+![diagram png](https://github.com/user-attachments/assets/96e996b1-18f0-46b7-80ee-544073e5b497)
 
 
 
