@@ -47,8 +47,7 @@ jobportal-web-app/
 
 
 
-[[![homescreen.png.jpg](https://github.com/user-attachments/assets/38053cd2-bcb3-40e4-a11f-def7d1828b7e)
-](https://raw.githubusercontent.com/coskun-furkan/jobportal-web-app/main/images/homescreen.png.jpg)](https://raw.githubusercontent.com/coskun-furkan/jobportal-web-app/main/images/homescreen.png.jpg)
+![homescreen.png.jpg](https://github.com/coskun-furkan/jobportal-web-app/blob/main/images/homescreen.png.jpg)
 
 
 
