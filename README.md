@@ -46,9 +46,9 @@ jobportal-web-app/
 └── README.md
 
 
-images/candidate-screen.png.jpg
 
 
+![Proje Görseli](images/candidate-screen.png.jpg)
 
 
 # ⚙️ Kurulum ve Çalıştırma
