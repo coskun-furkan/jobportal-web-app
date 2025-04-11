@@ -46,17 +46,9 @@ jobportal-web-app/
 └── README.md
 
 
-![homepage png](https://github.com/user-attachments/assets/ab6841ab-0e59-4136-800c-0c2e9fb53a37)
+![Ana Sayfa Görseli](images/candidate-screen.png.jpg)
 
-![recruiter-screen png](https://github.com/user-attachments/assets/aefacb24-fb9e-453e-8307-e0852291542d)
 
-![recruiterr png](https://github.com/user-attachments/assets/626b7b56-a677-44df-a5c4-e6b8b01acb2d)
-
-![candidate-screen png](https://github.com/user-attachments/assets/b8097f02-ea62-4da3-b88e-e43eab2e0b2c)
-
-![job-application-screen png](https://github.com/user-attachments/assets/0d2eb0cc-da5f-4fcf-aa38-bc5baf28cb10)
-
-![diagram png](https://github.com/user-attachments/assets/4460f586-57f7-4032-8e09-51f2aaec5fe3)
 
 
 
