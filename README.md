@@ -46,7 +46,7 @@ jobportal-web-app/
 └── README.md
 
 
-![homescreen.png](images/homescreen.png.jpg)
+
 ![diagram](https://github.com/user-attachments/assets/559b676e-8774-40d2-85e5-9a7b1214a232)
 
 
