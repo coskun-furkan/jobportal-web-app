@@ -6,7 +6,7 @@ To get started, users should register to create and update their profiles. Recru
 
 Recruiters can view the details of applicants and download submitted CVs. Registration is not required to view job listings. Additionally, users can filter listings to display only the opportunities that match their interests.
 
-📌 Note:** Only the *backend* of this project was developed by me. A pre-built theme was used for the *frontend*.
+ Note:** Only the *backend* of this project was developed by me. A pre-built theme was used for the *frontend*.
 
 ---
 
