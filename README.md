@@ -6,11 +6,11 @@ To get started, users should register to create and update their profiles. Recru
 
 Recruiters can view the details of applicants and download submitted CVs. Registration is not required to view job listings. Additionally, users can filter listings to display only the opportunities that match their interests.
 
-📌 **Note:** Only the *backend* of this project was developed by me. A pre-built theme was used for the *frontend*.
+📌 Note:** Only the *backend* of this project was developed by me. A pre-built theme was used for the *frontend*.
 
 ---
 
-## Features
+# Features
 
 - **User Registration and Login:** Separate registration and login processes for job seekers and employers.
 - **Profile Management:** Users can update personal details and upload resumes.
@@ -20,7 +20,7 @@ Recruiters can view the details of applicants and download submitted CVs. Regist
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 - **Backend:** Java 23, Spring Boot, Spring Security, Spring Data JPA  
 - **Database:** MySQL  
@@ -38,7 +38,7 @@ Recruiters can view the details of applicants and download submitted CVs. Regist
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```
 jobportal-web-app/
@@ -63,7 +63,7 @@ jobportal-web-app/
 
 ---
 
-## ⚙️ Setup and Running the Project
+# Setup and Running the Project
 
 1. **Clone the Repository:**
 
@@ -90,12 +90,12 @@ jobportal-web-app/
 
 ---
 
-## 📄 License
+# License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributions
+# Contributions
 
 Contributions are welcome! Please refer to the `CONTRIBUTING.md` file before contributing.
